@@ -1,0 +1,15 @@
+h1{
+    color:white;
+    background-color: grey;
+    font-size: 40px;
+    width: 10cm;
+    height: 20cm;
+}
+
+div{
+    background-color: orange;
+    width: 3cm;
+    height: 3cm;
+    margin-bottom: 1cm;
+    margin-left: 35px;
+}
